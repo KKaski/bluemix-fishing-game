@@ -9,7 +9,7 @@ Test the application <your hostname>.mybluemix.net.
 
 ##Other way
 If you do not want or do not have the git and CF commandline tools installed you can also do it by pressing this button.
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/KKaski/bluemix-fishing-game.git#[required])
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://github.com/KKaski/firstbluemixapp.git#[required])
 
 
 You can create your own Deploy on Bluemix buttons by following these instructions

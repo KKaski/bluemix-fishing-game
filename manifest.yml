@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: bluemix-fishing-game
-  host: bm-fishing-game
+  name: bluemix-fishing
+  host: bluemix-fishing
   disk_quota: 1024M
